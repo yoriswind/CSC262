@@ -1,1 +1,7 @@
-# CSC262
+# CSC262 Week 3
+
+Differences Between Array and ArrayList in Java
+
+Arrays and ArrayLists in Java are both used to store multiple values, but they function differently depending on the situation. Arrays have a fixed size, meaning once the number of elements is set, it cannot be changed. They are more memory-efficient and slightly faster since they store elements in a contiguous block of memory, allowing quick access to any element. However, arrays lack built-in methods for adding or removing elements, requiring manual handling of these operations. They can store both primitive data types and objects, making them versatile but sometimes more challenging to manage, especially when dealing with null values or resizing needs.
+
+ArrayLists, on the other hand, offer greater flexibility by allowing dynamic resizing. Unlike arrays, which require a predetermined size, ArrayLists can grow and shrink as needed, making them ideal when the number of elements is uncertain. They also provide useful built-in methods like add(), remove(), and contains(), simplifying data manipulation without extra coding. However, ArrayLists store elements as objects, even for primitive types like int, which adds slight memory and processing overhead. The key difference between the two is that arrays are more rigid but efficient, whereas ArrayLists provide ease of use and adaptability at the cost of some performance overhead. For a fixed-size collection with high performance, an array is the better choice, but for dynamic and easily manageable data storage, an ArrayList is more practical.
