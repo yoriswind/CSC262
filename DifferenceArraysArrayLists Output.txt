@@ -1,0 +1,20 @@
+
+Demonstrating differences between Arrays and ArrayLists.
+
+Array Demonstration:
+Element at index 0: 10
+Element at index 1: 20
+Element at index 2: 30
+
+Demonstrating differences between Arrays and ArrayLists.
+
+ArrayList Demonstration:
+Element at index 0: 10
+Element at index 1: 20
+Element at index 2: 30
+Element at index 3: 40
+
+After removing index 2:
+10
+20
+40
