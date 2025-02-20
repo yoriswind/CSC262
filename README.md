@@ -1,4 +1,4 @@
-# CSC262 Week 3
+# CSC262 Week 3 Discussion
 
 Differences Between Array and ArrayList in Java
 
